@@ -1,3 +1,7 @@
 1.Hit the URL
 2.Login page should display
 3 Login page should contain user name, Password, Login Btn
+4.select the type of Authentication
+5. Authentication should contain Security question or phone number OTP
+6.Post after successfully Authentication Home page should display
+ 
